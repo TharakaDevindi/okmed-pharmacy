@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OKmed_Pharmacy_Final.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\OKmed_Pharmacy_Final\Source.cpp(68,2): warning C4551:  function call missing argument list
+C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\OKmed_Pharmacy_Final\Source.cpp(79,6): warning C4101:  'index': unreferenced local variable
+C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\OKmed_Pharmacy_Final\Source.cpp(319,4): warning C4551:  function call missing argument list
+C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\OKmed_Pharmacy_Final\Source.cpp(399,44): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\OKmed_Pharmacy_Final\Source.cpp(502,14): warning C4101:  'counter': unreferenced local variable
+C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\OKmed_Pharmacy_Final\Source.cpp(502,6): warning C4101:  'i': unreferenced local variable
+C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\OKmed_Pharmacy_Final\Source.cpp(562,9): warning C4101:  'ch': unreferenced local variable
+  OKmed_Pharmacy_Final.vcxproj -> C:\Users\THARAKA DEVINDI\Documents\Visual Studio 2019\Projects\OKmed_Pharmacy_Final\Debug\OKmed_Pharmacy.exe
